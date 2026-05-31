@@ -1,4 +1,5 @@
 # EasyVisa: Robut Data Modeling with Ensembling and Tuning Techniques
+
 ## Project Overview
 The increasing demand for skilled foreign professionals has led organizations to rely heavily on visa certification processes for international hiring. Evaluating visa applications involves analyzing multiple factors such as education, work, experience, wage levels, employer details, and emplyment conditions. Manual assessment of these applications can be time-consuming and may lead to inconsistencies in decision-making.
 This project aims to develop a machine learning-based predictive system that can determine whether a visa application is likely to be Certified or Denied. BY leveraging ensemble learning techniques and hyperparameter tuning, the project focuses on building a robust classification model that ca support faster and more reliable decision making
@@ -76,6 +77,7 @@ The analysis revealed several important factors influencing visa approva; decisi
 - Joblib
 ### Development Environment
 - Google Colab
+
 
 ## Future Improvements
 Potential enhancements for this project include:
